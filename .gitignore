@@ -1,0 +1,8 @@
+# VS Code & MicroPico
+.vscode/
+.micropico/
+*.pyc
+__pycache__/
+
+# Secrets
+config.py

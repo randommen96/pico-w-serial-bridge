@@ -1,0 +1,4 @@
+# config.py.example
+WIFI_SSID = "SSID_HERE"
+WIFI_PASS = "PASSWORD_HERE"
+TARGET_IP = "IP_HERE"
